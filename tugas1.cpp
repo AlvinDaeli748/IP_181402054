@@ -6,12 +6,12 @@ int main(){
     int x = 5;
     int y = 4;
 
-    //Penjumlahan
-    int z = x + y;
+    //Pengurangan
+    int z = x - y;
 
-    cout << "Program Penjumlahan\n\n";
+    cout << "Program Pengurangan\n\n";
     cout << "Nilai X = " << x << "\n";
     cout << "Nilai Y = " << y << "\n";
-    cout << "Hasil Penjumlahan = " << z << "\n";
+    cout << "Hasil Pengurangan = " << z << "\n";
     return 0;
 }
