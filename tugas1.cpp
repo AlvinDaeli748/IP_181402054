@@ -3,15 +3,15 @@
 using namespace std;
 
 int main(){
-    int x = 5;
-    int y = 4;
+    int x = 10;
+    int y = 2;
 
-    //Perkalian
-    int z = x * y;
+    //Pembagian
+    float z = x / y;
 
-    cout << "Program Perkalian\n\n";
+    cout << "Program Pembagian\n\n";
     cout << "Nilai X = " << x << "\n";
     cout << "Nilai Y = " << y << "\n";
-    cout << "Hasil Perkalian = " << z << "\n";
+    cout << "Hasil Pembagian = " << z << "\n";
     return 0;
 }
